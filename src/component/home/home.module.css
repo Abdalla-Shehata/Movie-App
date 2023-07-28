@@ -1,0 +1,14 @@
+.brd_top {
+    width: 30%;
+}
+.brd_bottom {
+    width: 70%;
+}
+.brd_top,.brd_bottom {
+    height: 1px;
+    background-color: #a8a8a83d;
+}
+img {
+    /* height: 200px; */
+    object-fit: cover;
+}
